@@ -1,0 +1,407 @@
+body {    
+    font-family: "Inconsolata";
+    background-color: #344146;
+    color: #fff;
+}
+
+a {
+    color: #fff;
+}
+
+a:hover {
+    color: #fff;
+}
+
+.BOUUUYAAA {
+    transition: all 0.5s linear 0s;
+    background-color: #33BEE5;
+    width: 100%;
+    height: 0;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+ 
+.a:hover .BOUUUYAAA {
+    height: 100%;
+}
+
+.fa-github, .fa-lastfm-square, .fa-steam, .fa-skype, .fa-map-signs, .fa-graduation-cap, .fa-code, .ion-social-tux, .fa-television, .ion-lock-combination, .ion-model-s, .ion-android-options, .ion-ios-game-controller-b {
+    -webkit-transition: -webkit-transform 0.8s ease-out;
+    transition: transform 0.8s ease-out;
+}
+
+.fa-github:hover, .fa-lastfm-square:hover, .fa-steam:hover, .fa-skype:hover, .fa-map-signs:hover, .fa-graduation-cap:hover, .fa-code:hover, .ion-social-tux:hover, .fa-television:hover, .ion-lock-combination:hover, .ion-model-s:hover, .ion-android-options:hover, .ion-ios-game-controller-b:hover {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
+
+.POUYAH, .ZOUYAH {
+    border: solid 1px #fff;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.POUYAH {
+    border-bottom: none;
+    border-left: none;
+}
+
+.ZOUYAH {
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+}
+
+.RAFiKI {
+    padding-bottom: 20px;
+    border-bottom: solid 1px #fff;
+}
+
+.ZiGZAG {
+    border-left: dashed 1px #fff;
+    border-right: dashed 1px #fff;
+}
+
+.ZiGG {
+    border-right: dashed 1px #fff;
+}
+
+.PATRiCK {
+    padding: 10px 0;
+}
+
+.HARRiCOPTER {
+    font-size: 17px;
+}
+
+.reZo {
+    font-family: "FontAwesome";
+    font-size: 30px;
+}
+
+@font-face {
+    font-family: "Molesk";
+    src: url("assets/fonts/molesk.ttf");
+}
+
+h1, h2 {
+    margin: 0;
+    font-weight: bold;
+    font-family: "Molesk";
+}
+
+h1 {
+    font-size: 44px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+.iconAWAi {
+    margin: 0;
+    padding: 10px 0;
+    font-size: 70px;
+    font-family: "FontAwesome";
+}
+
+h3 {
+    margin: 0;
+    font-weight: bold;
+    font-family: "Inconsolata";
+    font-size: 18px;
+}
+
+p {
+    line-height: 1.13;
+    font-size: 15px;
+}
+
+.TESTiNG {
+}
+
+.FUCKYOUPADDiNG {
+    padding-left: 0;
+    padding-right: 20px;
+}
+
+.GNiDDAPUOYKCUF, .HARRiCOPTER {
+    padding-left: 20px;
+    padding-right: 0;
+}
+
+.SCREWuPADDiNG {
+    padding: 0;
+}
+
+.supertitle {
+    padding-bottom: 20px;
+    padding-top: 40px;
+}
+
+.supertitle h2 {
+    font-size: 20px;
+    font-family: "Inconsolata";
+}
+
+
+.superh2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+ul ul {
+    border-left: 4px solid #2d373b;
+    margin: 5px 0 0 0;
+}
+
+li li {
+    padding: 0 0 0 10px;
+    margin: 0;
+    line-height: 1.14;
+}
+
+.NOMARGiN {
+    margin: 0;
+}
+
+.KOiQ {
+    padding: 0 0 0 14px;
+}
+
+.MyCircles h3 {
+    font-size: 14px;
+    padding: 90px 0 0 4px;
+}
+
+.GRiNCH {
+    padding: 20px 0 20px 20px;
+    border-bottom: 1px dashed #fff;
+}
+
+.FLOAK li, .FLOAK2 li {
+    padding: 0 10px;
+    line-height: 26px;
+    font-weight: bold;
+    border-radius: 3px;
+    background-color: #2D373B;
+    height: 26px;
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    position: relative;
+    -webkit-transition-property: color;
+    transition-property: color;
+    -webkit-transition-duration: 0.5s;
+    transition-duration: 0.5s;
+}
+.FLOAK li:before, .FLOAK2 li:before {
+    border-radius: 3px;
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #FF6861;
+    -webkit-transform: scaleX(0);
+    transform: scaleX(0);
+    -webkit-transform-origin: 0 50%;
+    transform-origin: 0 50%;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    -webkit-transition-duration: 0.5s;
+    transition-duration: 0.5s;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+}
+.FLOAK li:hover, .FLOAK li:focus, .FLOAK li:active, .FLOAK2 li:hover, .FLOAK2 li:focus, .FLOAK2 li:active {
+    color: white;
+}
+.FLOAK li:hover:before, .FLOAK li:focus:before, .FLOAK li:active:before, .FLOAK2 li:hover:before, .FLOAK2 li:focus:before, .FLOAK2 li:active:before {
+    border-radius: 3px;
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+    -webkit-transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
+    transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
+}
+
+ul .FLOAK, ul .FLOAK2 {
+    padding: 0 10px;
+}
+
+.FLOAK {
+    padding-top: 18px;
+}
+
+.FLOAK2 {
+    padding-top: 10px;
+}
+
+.experiences {
+    margin: 0;
+    height: 200px;
+    width: 100%;
+    clear: both;
+}
+
+.xp1, .xp2 {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+.xp1 {
+    height: 50px;
+}
+
+.xp2 {
+    height: 34px;
+}
+
+.year h3 {
+    padding: 0 10px;
+    line-height: 26px;
+    font-weight: bold;
+    border-radius: 3px;
+    background-color: #2D373B;
+    height: 26px;
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    position: relative;
+    -webkit-transition-property: color;
+    transition-property: color;
+    -webkit-transition-duration: 0.5s;
+    transition-duration: 0.5s;
+}
+.year h3:before {
+    border-radius: 3px;
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #FF6861;
+    -webkit-transform: scaleX(0);
+    transform: scaleX(0);
+    -webkit-transform-origin: 100% 50%;
+    transform-origin: 100% 50%;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    -webkit-transition-duration: 0.5s;
+    transition-duration: 0.5s;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+}
+.year h3:hover, .year h3:focus, .year h3:active {
+    color: white;
+}
+.year h3:hover:before, .year h3:focus:before, .year h3:active:before {
+    border-radius: 3px;
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+    -webkit-transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
+    transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
+}
+
+
+
+.year, .separate_bar, .xpDescrip {
+    float: left;
+}
+
+.year {
+    margin: 0;
+}
+
+.separate_bar {
+    padding: 0 12px;
+    height: 100%;
+}
+
+.separate_bar .carre {
+    color: white;
+    font-family: FontAwesome;
+    font-size: 12px;
+    text-align: center;
+    margin: 0;
+    padding-top: 8px;
+}
+
+.separate_bar .splitter {
+    height: 100%;
+    width: 0px;
+    border-right: dashed 1px white;
+    padding: 0 2px 0 3px;
+}
+
+.xpDescrip {
+    color: white;
+    width: 62.8%;
+    margin: 0;
+}
+
+.xpDescrip p {
+    padding-top: 5px;
+    margin: 0;
+}
+
+.achair {
+    border: solid 2px #2D373B;
+    margin: 6px 0 0 0;
+}
+
+.GAZON {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.PELOUZ {
+    margin: 0;
+}
+
+.OBiii {
+    border-bottom: solid 1px #fff;
+    border-top: solid 1px #fff;
+}
+
+.OBiii2 {
+    padding: 20px 0;
+}
+
+.genIco {
+    font-family: FontAwesome;
+    font-size: 50px;
+}
+
+.genImg img {
+    height: 50px;
+}
+
+.genImg {
+    padding: 11px 0;
+}
+
+.OBiii p {
+    font-weight: bold;
+    font-family: "Inconsolata";
+    font-size: 14px;
+    margin: 0;
+    padding-top: 10px;
+}
